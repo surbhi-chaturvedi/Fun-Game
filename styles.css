@@ -77,3 +77,24 @@ body{
     box-shadow: 0 0 20px white;
     background-color: grey;
   }
+  button{
+    color: rgb(15, 19, 19);
+    width: 50%;
+    height:50px;
+    font-size: large;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: antiquewhite;
+  border-width: 50px solid black;
+  margin-left: auto;
+  display: flex;
+  justify-content: center;
+  margin-right: auto;
+  align-items: center;
+  border-radius: 20px;
+  letter-spacing: 1pxz;}
+    
+    .button:hover{
+      background-color:rgb(190, 211, 122);
+  
+    }
